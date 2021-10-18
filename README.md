@@ -11,5 +11,5 @@ cd bubble-sheet-multiple-choice-test-with-opencv
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python grader.py.py
+python grader.py
 ```
