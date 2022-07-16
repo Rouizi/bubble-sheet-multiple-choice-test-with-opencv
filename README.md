@@ -1,6 +1,6 @@
 # bubble-sheet-multiple-choice-test-with-opencv
 
-This is the repository for the tutorial: https://dontrepeatyourself.org/post/bubble-sheet-multiple-choice-test-opencv-and-python/
+This is the repository for the tutorial: https://dontrepeatyourself.org/post/bubble-sheet-multiple-choice-test-with-opencv-and-python/
 
 ## Setup
 
